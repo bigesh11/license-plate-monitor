@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# generated at runtime
+records/plates/*.jpg
+records/plate_records.csv
+# big test videos
+*.mp4
+*.avi
+*.mov
+*.mkv
